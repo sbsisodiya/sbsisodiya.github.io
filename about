@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About | Sachin Sisodiya</title>
+  <meta charset="UTF-8">
+</head>
+
+<body>
+
+<nav>
+  <a href="index.html">Home</a> |
+  <a href="about.html">About</a> |
+  <a href="cv.pdf">CV</a>
+</nav>
+
+<h1>Sachin Sisodiya</h1>
+
+<p>
+Hello, my name is <strong>Sachin Sisodiya</strong>. I am a PhD Economics Candidate at the University of Cincinnati.
+</p>
+
+<p>
+My research examines the economic, regulatory, and geopolitical dimensions of licit opium production, with a focus on supply chain dynamics, pricing mechanisms, and policy trade-offs. I study how legal opium markets—for pharmaceuticals such as morphine and codeine—interact with global health needs, agricultural livelihoods, and illicit diversion risks.
+</p>
+
+<p>
+My work applies empirical methods to assess the efficiency, equity, and unintended consequences of opium regulation.
+</p>
+
+<p>
+My CV is available here:  
+<a href="cv.pdf" target="_blank">Download CV</a>
+</p>
+
+</body>
+</html>
